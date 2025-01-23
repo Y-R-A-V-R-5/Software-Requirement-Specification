@@ -70,7 +70,7 @@ We would like to extend our gratitude to the following:
 - **Team Members**:  
   - [Rapolu Sumanth](https://www.linkedin.com/in/sumanthrapolu/)  
   - [Potluri Jaya Prakash Rao](https://www.linkedin.com/in/jaya-prakash-rao-5bb284254/)  
-  - Adithya Vardhan Reddy  
+  - [Adithya Vardhan Reddy] (https://www.linkedin.com/in/yravr/)
 
 - **Technologies Used**:  
   - **Microsoft Word** and **Google Docs** for documentation.
