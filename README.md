@@ -22,8 +22,7 @@ This repository includes the following key components:
 - [Project Description](#project-description)
 - [Folder Structure](#folder-structure)
 - [Installation Instructions](#installation-instructions)
-- [Testing](#testing)
-- [License](#license)
+- [Acknowledgments](#Acknowledgments)
 
 ---
 
